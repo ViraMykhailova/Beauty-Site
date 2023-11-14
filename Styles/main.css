@@ -138,6 +138,10 @@ body {
   text-decoration: none;
   color: var(--black);
 }
+.tell-nmbr:hover {
+    color: var(--rose);
+    
+}
 .grey-line {
   height: 1px;
   background-color: var(--grey);
